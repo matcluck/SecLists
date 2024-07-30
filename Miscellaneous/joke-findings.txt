@@ -1,0 +1,10 @@
+Base64 Encryption In Use
+Services Use Default Ports
+Robots.txt In Use
+HSTS not Configured for Internal Hosts
+TLS 1.3 not Configured
+Wildcard Certificates In Use
+Missing CAA Record
+Terms of Use / Privacy Policy not Present
+RDP Enabled on Internal Jumphost
+
